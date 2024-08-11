@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello World !!<br>I'm Siddhesh, a second-year B.Tech student majoring in Computer Science. I'm also a co-founder of Hyperbolic Designs, a web development and design company. Currently, I'm immersed in a major quant AI project and an LLM project. Alongside these, I'm writing a research paper, showcasing my passion for both academia and technology. I'm excited about the opportunities these projects bring and look forward to making meaningful contributions in both fields.<br><br><br><br><br><br>
+Hello World !!<br>I'm Siddhesh, a Third-year B.Tech student majoring in Computer Science. I'm also a co-founder of Hyperbolic Designs, a web development and design company. Currently, I'm immersed in a major quant AI project and an LLM project. Alongside these, I'm writing a research paper, showcasing my passion for both academia and technology. I'm excited about the opportunities these projects bring and look forward to making meaningful contributions in both fields.<br><br><br><br><br><br>
 
 
 ## 🌐 Socials:
