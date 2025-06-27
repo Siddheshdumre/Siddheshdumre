@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hello World !!<br>I'm Siddhesh, a Third-year B.Tech student majoring in Computer Science. I'm also a co-founder of Hyperbolic Designs, a web development and design company. Currently, I'm immersed in a major quant AI project and an LLM project. Alongside these, I'm writing a research paper, showcasing my passion for both academia and technology. I'm excited about the opportunities these projects bring and look forward to making meaningful contributions in both fields.<br><br><br><br><br><br>
-
+I’m a builder. I lead the development of full-stack web platforms for real-world clients and craft ML/NLP models that solve complex problems — from legal case similarity to deepfake detection. Whether optimizing frontend performance or deploying transformer models, I execute fast and with purpose.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/siddhesh-dumre-44272a219/) 
